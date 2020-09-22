@@ -1,9 +1,29 @@
 {
-  "name": "portfolio-generator--class-project",
-  "version": "0.0.0",
-  "description": "portfolioGenerator--class project",
-  "main": "server.js",
-  "author": {
-    "name": ""
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "class project learning nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jd9913/portfolio-generator.git"
+  },
+  "keywords": [
+    "nodejs",
+    "portfolio",
+    "generator",
+    "node",
+    "javascript"
+  ],
+  "author": "jd9913",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jd9913/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/jd9913/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
   }
 }

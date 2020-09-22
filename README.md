@@ -1,3 +1,2 @@
-# portfolioGenerator--class project
-
-
+# portfolio-generator
+generate a portfolio using Node.js
